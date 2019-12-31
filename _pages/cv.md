@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+My CV can be found [here](https://rockyyyyyygt.github.io/files/Ran_Liu_CV_gt.pdf)!
+
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +60,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
