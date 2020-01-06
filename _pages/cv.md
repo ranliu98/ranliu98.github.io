@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://rockyyyyyygt.github.io/files/Ran_Liu_CV_gt.pdf
 author_profile: true
 redirect_from:
   - /resume
