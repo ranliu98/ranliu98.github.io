@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at [Georgia Tech](https://www.gatech.edu/). Last semester I was working with [Prof. Diyi Yang](https://www.cc.gatech.edu/~dyang888/experience.html) at her NLP lab. I am broadly interested in Machine Learning, Deep Learning, Natural Language Processing, and their application to address societal challenges.
+I am a second-year PhD student at [the Center for Machine Learning at Georgia Tech](https://ml.gatech.edu/) with [Electrical and Computer Engineering (ECE)](https://www.ece.gatech.edu/) as my home school. I conduct my research in the Neural Data Science Lab advised by [Prof. Eva Dyer](https://dyerlab.gatech.edu/). My research interest includes representation learning, generative learning, and their application in neuroimaging datasets. My research focuses on how we can better utilize machine perception to aid in the understanding of biomedical datasets.
 
-I received my bachelor of science degree from [Fudan University](https://www.fudan.edu.cn/en/) in Physics. I took quite a few courses about Computer Science, Social Science, and Mathematics during my undergraduate study.
-
-The world is a mystery to me. Hence, I decide that I will be trying to become an excellent observer of people's behavior.
+I received my bachelor of science degree from [Fudan University](https://www.fudan.edu.cn/en/) in Physics. I took quite a few courses about Computer Science, Electrical Engineering, and Mathematics during my undergraduate study.
