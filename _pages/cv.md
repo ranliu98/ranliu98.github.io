@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://rockyyyyyygt.github.io/files/Ran_Liu_CV_gt.pdf
+permalink: https://github.com/rockyyyyyygt/rockyyyyyygt.github.io/blob/master/files/CV_RanL.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found [here](https://rockyyyyyygt.github.io/files/Ran_Liu_CV_gt.pdf)!
+My CV can be found [here](https://github.com/rockyyyyyygt/rockyyyyyygt.github.io/blob/master/files/CV_RanL.pdf)!
 
 <!--
 Education
