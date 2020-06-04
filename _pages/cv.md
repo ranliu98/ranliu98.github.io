@@ -1,15 +1,20 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://github.com/rockyyyyyygt/rockyyyyyygt.github.io/blob/master/files/CV_RanL.pdf
+permalink: /cv
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<html>
+<body>
 
-My CV can be found [here](https://github.com/rockyyyyyygt/rockyyyyyygt.github.io/blob/master/files/CV_RanL.pdf)!
+</body>
+<script type="text/javascript">
+    document.location = "robin.github.io/cv/cv.pdf"
+</script>
+</html>
 
 <!--
 Education
