@@ -7,14 +7,11 @@ redirect_from:
   - /resume
 ---
 
-<html>
-<body>
+My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length.pdf).
 
-</body>
-<script type="text/javascript">
-    document.location = "robin.github.io/cv/cv.pdf"
-</script>
-</html>
+My one-page resume is [here](https://ranliu98.github.io/files/Ran_Liu_one_page_resume.pdf).
+
+
 
 <!--
 Education
