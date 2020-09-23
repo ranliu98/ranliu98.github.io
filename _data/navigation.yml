@@ -1,8 +1,8 @@
 # main links links
-main
+main:
   - title: "Updates"
     url: /updates/
-    
+
   - title: "CV"
     url: /cv/
     
