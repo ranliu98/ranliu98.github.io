@@ -218,19 +218,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _updates
   - scope:
       path: ""
-      type: portfolio
+      type: updates
     values:
       layout: single
       author_profile: true
