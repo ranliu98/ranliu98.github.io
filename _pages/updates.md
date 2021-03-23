@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-2021-05-24 I will be starting an internship in Facebook this summer.
+2021-05-24 I will start an internship in Facebook this summer.
 
 2021-02-19 Our paper [Mine Your Own vieW: Self-Supervised Learning Through Across-Sample Prediction](https://arxiv.org/abs/2102.10106) is available on arXiv now.
 
