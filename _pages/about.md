@@ -18,6 +18,6 @@ Contact me
 
 My email address is rliu361{at}gatech{dot}edu.
 
-My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length.pdf).
+My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length.pdf). (Updated Oct 08, 2021)
 
-My one-page resume is [here](https://ranliu98.github.io/files/Ran_Liu_one_page_resume.pdf).
+My one-page resume is [here](https://ranliu98.github.io/files/Ran_Liu_one_page_resume.pdf). (Updated Oct 08, 2021)
