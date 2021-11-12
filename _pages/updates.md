@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+2021-11-12 Two of our papers [Using self-supervision and augmentations to build insights into neural coding]() and [Mine your own view: A self-supervised approach for learning representations of neural activity]() were accepted by NeurIPS 2021 Workshop: Self-Supervised Learning Theory and Practice. Check them out [here](https://nips.cc/Conferences/2021/Schedule?showEvent=21853).
 
 2021-09-28 Our paper [Drop, Swap, and Generate: A Self-Supervised Approach for Generating Neural Activity](https://www.biorxiv.org/content/10.1101/2021.07.21.453285v1?rss=1) was accepted by [Neurips 2021](https://neurips.cc/Conferences/2021) for an **oral presentation** (less than 1%).
 
