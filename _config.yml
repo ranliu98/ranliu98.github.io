@@ -86,7 +86,7 @@ author:
   location         : "Atlanta, GA"
   employer         : "https://dyerlab.gatech.edu/"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=vBEAxZgAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=vBEAxZgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Rliu48511375"
+  twitter          : "RliuGT"
   vine             :
   weibo            :
   xing             :
