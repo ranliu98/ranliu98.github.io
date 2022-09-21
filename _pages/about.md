@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,9 +19,8 @@ The research projects that I worked on, or am actively working on include:
 
 
 
-Contact Me
-------
+### Contact Me
 
-<li> My email address is rliu361{at}gatech{dot}edu. </li>
-<li> My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length.pdf). (Updated Oct 08, 2021) </li>
-<li> My one-page resume is [here](https://ranliu98.github.io/files/Ran_Liu_one_page_resume.pdf). (Updated Oct 08, 2021) </li>
+* My email address is rliu361{at}gatech{dot}edu.
+* My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length.pdf). (Updated Oct 08, 2021)
+* My one-page resume is [here](https://ranliu98.github.io/files/Ran_Liu_one_page_resume.pdf). (Updated Oct 08, 2021)
