@@ -18,6 +18,7 @@ The research projects that I worked on, or am actively working on include:
 * **Interpretable deep learning methods**: Building deep learning architectures that are interpretable and identifiable under certain pre-defined conditions or assumptions.
 * **Image segmentation**: Efficient methods for image segmentation with limited or noisy annotations, explicit constraints, or topological/geometrical priors.
 
+Outside from research, I do indoor climbing and I have two cats.
 
 
 ### Contact Me
