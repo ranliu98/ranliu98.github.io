@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year PhD student in the Machine Learning Program at [Georgia Tech](https://ml.gatech.edu/). 
+I am a 4th-year PhD student in the Machine Learning Program at [Georgia Tech](https://ml.gatech.edu/) (class of 2024). 
 I conduct my research in the Neural Data Science Lab advised by [Prof. Eva L. Dyer](https://dyerlab.gatech.edu/).
 I got my Bachelor's degree from Fudan University majoring in physics.
 
