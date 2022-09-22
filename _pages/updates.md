@@ -7,6 +7,12 @@ redirect_from:
   - /updates
 ---
 
+2022-09-14 Two of our papers [Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers]() and [MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction]() were accepted by NeurIPS 2022!
+
+2022-05-30 Our paper [Building representations of different brain areas through hierarchical point cloud networks](https://openreview.net/pdf?id=3GeifJ_GCg0) was accepted by [MIDL 2022](https://2022.midl.io/). This project is completed by Joy Jackson, an amazing undergrad that I mentored!
+
+2022-05-16 I will start an internship at Cajal Neuroscience this summer.
+
 
 2021-11-12 Two of our papers [Using self-supervision and augmentations to build insights into neural coding]() and [Mine your own view: A self-supervised approach for learning representations of neural activity]() were accepted by NeurIPS 2021 Workshop: Self-Supervised Learning Theory and Practice. Check them out [here](https://nips.cc/Conferences/2021/Schedule?showEvent=21853).
 
