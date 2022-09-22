@@ -10,13 +10,18 @@ author_profile: true
 Preprints
 </h2>
 
-**"Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers"** \
-&emsp; &emsp; **Ran Liu**, [Mehdi Azabou][mehdi], [Max Dabagia][max], Jingyun Xiao, and [Eva L. Dyer][eva]. \
-&emsp; &emsp; [Arxiv]() **To appear in NeurIPS 2022**
+**"Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers"** [arXiv](https://arxiv.org/pdf/2206.06131.pdf) \
+&emsp; &emsp; <u>Authors</u>: <ins>Authors</ins> **Ran Liu**, [Mehdi Azabou][mehdi], [Max Dabagia][max], Jingyun Xiao, and [Eva L. Dyer][eva]. \
+&emsp; &emsp; Keywords: Transformer; multi-channel time-series
+&emsp; &emsp; **To appear in NeurIPS 2022**
 
-"MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction"
+**"MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction"** \ 
+&emsp; &emsp; Jorge Quesada, Lakshmi Sathidevi, **Ran Liu**, Nauman Ahad, Joy M Jackson, [Mehdi Azabou][mehdi], Jingyun Xiao, Chris Liding, Carolina Urzay, William Gray-Roncal, Erik Christopher Johnson, [Eva L Dyer][eva]. \
+&emsp; &emsp; [OpenReview](https://openreview.net/pdf?id=5xuowSQ17vy) **To appear in NeurIPS 2022** (Datasets and Benchmarks)
 
-"Mine your own view: Self-supervised learning through across-sample prediction"
+**"Mine your own view: Self-supervised learning through across-sample prediction"** \
+&emsp; &emsp; [Mehdi Azabou][mehdi], Mohammad Gheshlaghi Azar, **Ran Liu**, Chi-Heng Lin, Erik C Johnson, Kiran Bhaskaran-Nair, Max Dabagia, Bernardo Avila-Pires, Lindsey Kitchell, Keith B Hengen, William Gray-Roncal, Michal Valko, Eva L Dyer \
+&emsp; &emsp; [arXiv](https://arxiv.org/pdf/2102.10106.pdf)
 
 
 
