@@ -10,8 +10,12 @@ author_profile: true
 Preprints
 </h2>
 
-"Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers" 
-:   ***Ran Liu**, [Mehdi Azabou][mehdi], [Max Dabagia][max], Jingyun Xiao, and [Eva L. Dyer][eva].* (To appear in NeurIPS 2022) [Preprint]()
+### "Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers"
+
+<address>
+  ***Ran Liu**, [Mehdi Azabou][mehdi], [Max Dabagia][max], Jingyun Xiao, and [Eva L. Dyer][eva].* (To appear in NeurIPS 2022) [Preprint]()
+  <br /> [Arxiv]() <br /> **To appear in NeurIPS 2022**
+</address> 
 
 "MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction"
 
