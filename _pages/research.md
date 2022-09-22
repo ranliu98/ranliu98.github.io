@@ -59,9 +59,9 @@ Publications
 &emsp; &emsp; <u>Authors</u>: Mehdi Azabou, Max Dabagia, **Ran Liu**, Chi-Heng Lin, Keith B Hengen, Eva L Dyer \
 &emsp; &emsp; <u>Keywords</u>: Neural decoding, self-supervision, data augmentation.
 
-[W2] **"Mine your own view: A self-supervised approach for learning representations of neural activity"** [CameraReady](https://sslneurips21.github.io/files/CameraReady/MYOW_NeurIPS_Workshop_SSL_2.pdf) \ 
+[W2] **"Mine your own view: A self-supervised approach for learning representations of neural activity"** [CameraReady](https://sslneurips21.github.io/files/CameraReady/MYOW_NeurIPS_Workshop_SSL_2.pdf) \
 &emsp; &emsp; **NeurIPS** 2021 Workshop: Self-Supervised Learning - Theory and Practice (2021, December) \
-&emsp; &emsp; <u>Authors</u>: Mehdi Azabou, Mohammad Gheshlaghi Azar, **Ran Liu**, Chi-Heng Lin, Erik C Johnson, Kiran Bhaskaran-Nair, WashU-St Louis, Max Dabagia, Bernardo Avila-Pires, Lindsey Kitchell, Keith B Hengen, William Gray-Roncal, Michal Valko, Eva L Dyer \
+&emsp; &emsp; <u>Authors</u>: Mehdi Azabou, Mohammad Gheshlaghi Azar, **Ran Liu**, Chi-Heng Lin, Erik C Johnson, Kiran Bhaskaran-Nair, WashU-St Louis, Max Dabagia, Bernardo Avila-Pires, Lindsey Kitchell, Keith B Hengen, William Gray-Roncal, Michal Valko, Eva L Dyer. \
 &emsp; &emsp; <u>Keywords</u>: Representation learning, self-supervision, neural decoding.
 
 
