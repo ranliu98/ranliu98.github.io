@@ -78,5 +78,3 @@ Publications
 [J1] **"Inducing Strong Superconductivity in WTe<sub>2</sub> by a Proximity Effect"** [CameraReady](https://pubs.acs.org/doi/abs/10.1021/acsnano.8b03102) \
 &emsp; &emsp; **ACS nano** (2018, June) \
 &emsp; &emsp; 👤<u>Authors</u>: Ce Huang, Awadhesh Narayan, Enze Zhang, Yanwen Liu, Xiao Yan, Jiaxiang Wang, Cheng Zhang, Weiyi Wang, Tong Zhou, Changjiang Yi, Shanshan Liu, Jiwei Ling, Huiqin Zhang, **Ran Liu**, Raman Sankar, Fangcheng Chou, Yihua Wang, Youguo Shi, Kam Tuen Law, Stefano Sanvito, Peng Zhou, Zheng Han, Faxian Xiu
-
-
