@@ -11,12 +11,12 @@ Preprints
 </h2>
 
 [C6] **"Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers"** [arXiv](https://arxiv.org/pdf/2206.06131.pdf) \
-&emsp; &emsp; :bust_in_silhouette:<u>Authors</u>: **Ran Liu**, Mehdi Azabou, Max Dabagia, Jingyun Xiao, and Eva L Dyer. \
+&emsp; &emsp; 👥<u>Authors</u>: **Ran Liu**, Mehdi Azabou, Max Dabagia, Jingyun Xiao, and Eva L Dyer. \
 &emsp; &emsp; :key:<u>Keywords</u>: Transformer, multi-channel time-series, neural decoding, domain generalization. \
 &emsp; &emsp; :fire:**To appear in NeurIPS 2022**
 
 [C5] **"MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction"** [OpenReview](https://openreview.net/pdf?id=5xuowSQ17vy) \
-&emsp; &emsp; :bust_in_silhouette:<u>Authors</u>: Jorge Quesada, Lakshmi Sathidevi, **Ran Liu**, Nauman Ahad, Joy M Jackson, Mehdi Azabou, Jingyun Xiao, Chris Liding, Carolina Urzay, William Gray-Roncal, Erik Christopher Johnson, Eva L Dyer. \
+&emsp; &emsp; 👥<u>Authors</u>: Jorge Quesada, Lakshmi Sathidevi, **Ran Liu**, Nauman Ahad, Joy M Jackson, Mehdi Azabou, Jingyun Xiao, Chris Liding, Carolina Urzay, William Gray-Roncal, Erik Christopher Johnson, Eva L Dyer. \
 &emsp; &emsp; :key:<u>Keywords</u>: Representation learning, multi-task learning, new datasets. \
 &emsp; &emsp;  :fire:**To appear in NeurIPS 2022** (Datasets and Benchmarks)
 
