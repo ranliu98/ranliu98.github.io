@@ -9,6 +9,8 @@ redirect_from:
 
 2022-09-14 Two of our papers [Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers]() and [MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction]() were accepted by NeurIPS 2022!
 
+2022-08-10 I had the great honor to be invited to the Computational Neuroscience Center at University of Washington ([UW-CNC](https://www.washington.edu/research/research-centers/uw-computational-neuroscience-center-uw-cnc/)) to give a talk about my research.
+
 2022-05-30 Our paper [Building representations of different brain areas through hierarchical point cloud networks](https://openreview.net/pdf?id=3GeifJ_GCg0) was accepted by [MIDL 2022](https://2022.midl.io/). This project is completed by Joy Jackson, an amazing undergrad that I mentored!
 
 2022-05-16 I will start an internship at Cajal Neuroscience this summer.
