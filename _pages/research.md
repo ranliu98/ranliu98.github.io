@@ -39,7 +39,7 @@ Publications
 
 [C3] **"Drop, swap, and generate: A self-supervised approach for generating neural activity"** [CameraReady](https://proceedings.neurips.cc/paper/2021/file/58182b82110146887c02dbd78719e3d5-Paper.pdf), [arXiv](https://arxiv.org/pdf/2111.02338.pdf), [Talk](https://slideslive.com/38968190/drop-swap-and-generate-a-selfsupervised-approach-for-generating-neural-activity?ref=recommended) \
 &emsp; &emsp; Advances in Neural Information Processing Systems 34 (**NeurIPS**) **Oral presentation (top 1%)** (2021, December) \
-&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Mehdi Azabou, Max Dabagia, Chi-Heng Lin, Mohammad Gheshlaghi Azar, Keith Hengen, Michal Valko, Eva Dyer. \
+&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Mehdi Azabou, Max Dabagia, Chi-Heng Lin, Mohammad Gheshlaghi Azar, Keith Hengen, Michal Valko, Eva L Dyer. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Self-supervision, generative learning, neural decoding, data augmentation.
 
 [C2] **"Multi-Scale Modeling of Neural Structure in X-Ray Imagery"** [CameraReady](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506174) \
