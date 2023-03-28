@@ -27,4 +27,4 @@ Outside from research, I do indoor climbing and I have two cats🐱.
 * My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length_22.pdf). (Updated Sept, 2022)
 * My one-page resume is [here](https://ranliu98.github.io/files/Ran_Liu_one_page_resume.pdf). (Updated Oct, 2021)
 
-**I am looking for 2 MS/Undergrad students to advise and collaborate with on a neuroimage-related project and a neural recording project. If you are a current Georgia Tech MS/Undergrad student and interested in this research area, feel free to send me an email.**
+**I might have a neural-recording/time-series related project that I plan to work on starting early September 2023. I am happy to advise and collaborate with a MS/Undergrad student with strong deep learning background on this project. If you are a current Georgia Tech MS/Undergrad student and interested in this research area, feel free to send me an email.**
