@@ -7,9 +7,9 @@ redirect_from:
   - /updates
 ---
 
-2022-11-09 I will join Apple AI Research for a 6-month internship next year (from Jan to Aug).
+2022-11-09 I will join Apple Machine Learning Research (MLR) for a 6-month internship next year (from Jan to Aug).
 
-2022-09-14 Two of our papers [Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers]() and [MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction]() were accepted by NeurIPS 2022!
+2022-09-14 Two of our papers [Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers](https://arxiv.org/abs/2206.06131) and [MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction](https://arxiv.org/abs/2301.00345) were accepted by NeurIPS 2022!
 
 2022-08-10 I had the great honor to be invited to the Computational Neuroscience Center at University of Washington ([UW-CNC](https://www.washington.edu/research/research-centers/uw-computational-neuroscience-center-uw-cnc/)) to give a talk about my research.
 
