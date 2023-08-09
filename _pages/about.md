@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year PhD student in the Machine Learning Program at [Georgia Tech](https://ml.gatech.edu/) (class of 2024). 
-I conduct my research in the Neural Data Science Lab advised by [Prof. Eva L. Dyer](https://dyerlab.gatech.edu/).
-I got my Bachelor's degree from Fudan University majoring in physics.
+I am a PhD candidate in the Machine Learning Program at [Georgia Tech](https://ml.gatech.edu/) (class of 2024).
+I was fortunate to have interned at [Apple MLR](https://machinelearning.apple.com/), [Cajal Neuroscience](https://www.cajalneuro.com/), and [Meta](https://about.meta.com/) for the past few years.
+Currently, I conduct my research in the Neural Data Science Lab advised by [Prof. Eva L. Dyer](https://dyerlab.gatech.edu/).
+Previously, I got my Bachelor's degree from Fudan University majoring in physics.
 
-My research interests lie at the intersection of Machine (Deep) Learning, Computational Neuroscience, and Computer Vision. I am curious about how deep learning could be used to accelerate scientific discovery, and thus how to design better deep learning models for science.
+**I am looking for a full-time position starting in Fall 2024.**
+
+My research interests lie at the intersection of Machine (Deep) Learning, Computational/Cognitive Neuroscience, and Computer Vision. I am interested in developing more generalizable and interpretable deep learning methods for sequential systems and vision, and using them to accelerate scientific discovery.
 The research projects that I worked on, or am actively working on include: 
-* **Representation learning**: Developing self-supervised learning and generative learning methods to obtain robust representation of neural data without relying on explicit human annotation.
-* **Interpretable deep learning methods**: Building deep learning architectures that are interpretable and identifiable under certain pre-defined conditions or assumptions.
-* **Image segmentation**: Efficient methods for image segmentation with limited or noisy annotations, explicit constraints, or topological/geometrical priors.
+* **Representation learning and generative models**: Learning without explicit human annotation through self-supervision and generative modeling methods.
+* **Interpretable deep learning methods**: Building deep learning architectures 1) that are more interpretable under certain pre-defined conditions or assumptions, and 2) that align better to out-of-distribution domains and downstream tasks.
+* **Multi-modal learning**: Learning on multi-modal data in a more efficient and effective manner.
 
 Outside from research, I do indoor climbing and I have two cats🐱.
 
@@ -24,7 +27,6 @@ Outside from research, I do indoor climbing and I have two cats🐱.
 ### Contact Me
 
 * My email address is rliu361{at}gatech{dot}edu.
-* My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length_22.pdf). (Updated Sept, 2022)
-* My one-page resume is [here](https://ranliu98.github.io/files/Ran_Liu_one_page_resume.pdf). (Updated Oct, 2021)
+* My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length_23.pdf). (Updated Aug, 2023)
 
 **I might have a neural-recording/time-series related project that I plan to work on starting early September 2023. I am happy to advise and collaborate with a MS/Undergrad student with strong deep learning background on this project. If you are a current Georgia Tech MS/Undergrad student and interested in this research area, feel free to send me an email.**
