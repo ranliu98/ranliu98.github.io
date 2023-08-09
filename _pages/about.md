@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD candidate in the Machine Learning Program at [Georgia Tech](https://ml.gatech.edu/) (class of 2024).
 I was fortunate to have interned at [Apple MLR](https://machinelearning.apple.com/), [Cajal Neuroscience](https://www.cajalneuro.com/), and [Meta](https://about.meta.com/) for the past few years.
 Currently, I conduct my research in the Neural Data Science Lab advised by [Prof. Eva L. Dyer](https://dyerlab.gatech.edu/).
-Previously, I got my Bachelor's degree from Fudan University majoring in physics.
+Previously, I got my Bachelor's degree from Fudan University majoring in physics working on Quantum Hall effect and Superconductors.
 
 **I am looking for a full-time position starting in Fall 2024.**
 
