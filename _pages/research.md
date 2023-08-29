@@ -10,15 +10,13 @@ author_profile: true
 Preprints
 </h2>
 
-[C6] **"Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers"** [arXiv](https://arxiv.org/pdf/2206.06131.pdf) \
-&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Mehdi Azabou, Max Dabagia, Jingyun Xiao, and Eva L Dyer. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Transformer, multi-channel time-series, neural decoding, domain generalization. \
-&emsp; &emsp; 🔥**To appear in NeurIPS 2022**
+**"Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals"** \
+&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Ellen L. Zippi, Hadi Pouransari, Chris Sandino, Jingping Nie, Hanlin Goh, Erdrin Azemi, Ali Moin. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Multimodal learning, pretraining, biosignals.
 
-[C5] **"MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction"** [OpenReview](https://openreview.net/pdf?id=5xuowSQ17vy) \
-&emsp; &emsp; 👤<u>Authors</u>: Jorge Quesada, Lakshmi Sathidevi, **Ran Liu**, Nauman Ahad, Joy M Jackson, Mehdi Azabou, Jingyun Xiao, Chris Liding, Carolina Urzay, William Gray-Roncal, Erik Christopher Johnson, Eva L Dyer. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Representation learning, multi-task learning, new datasets. \
-&emsp; &emsp; 🔥**To appear in NeurIPS 2022** (Datasets and Benchmarks)
+**"LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration"** \
+&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Domain generalization, data augmentation, computer vision.
 
 **"Mine your own view: Self-supervised learning through across-sample prediction"** [arXiv](https://arxiv.org/pdf/2102.10106.pdf) \
 &emsp; &emsp; 👤<u>Authors</u>: Mehdi Azabou, Mohammad Gheshlaghi Azar, **Ran Liu**, Chi-Heng Lin, Erik C Johnson, Kiran Bhaskaran-Nair, Max Dabagia, Bernardo Avila-Pires, Lindsey Kitchell, Keith B Hengen, William Gray-Roncal, Michal Valko, Eva L Dyer. \
@@ -31,6 +29,21 @@ Publications
 </h2>
 
 ### Conference Proceedings
+
+[C7] **"Half-Hop: A graph upsampling approach for slowing down message passing"** [OpenReview](https://openreview.net/pdf?id=lXczFIwQkv) \
+&emsp; &emsp; The International Conference on Machine Learning (**ICML**) (2023, June) \
+&emsp; &emsp; 👤<u>Authors</u>: Mehdi Azabou, Venkataramana Ganesh, Shantanu Thakoor, Chi-Heng Lin, Lakshmi Sathidevi, **Ran Liu**, Michal Valko, Petar Velickovi, Eva L. Dyer. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Data augmentation, graph, self-supervised learning. \
+
+[C6] **"Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers"** [arXiv](https://arxiv.org/pdf/2206.06131.pdf) \
+&emsp; &emsp; Advances in Neural Information Processing Systems 35 (**NeurIPS**) (2022, December) \
+&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Mehdi Azabou, Max Dabagia, Jingyun Xiao, and Eva L Dyer. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Transformer, multi-channel time-series, neural decoding, domain generalization. \
+
+[C5] **"MTNeuro: A Benchmark for Evaluating Representations of Brain Structure Across Multiple Levels of Abstraction"** [OpenReview](https://openreview.net/pdf?id=5xuowSQ17vy) \
+&emsp; &emsp; Advances in Neural Information Processing Systems 35 (**NeurIPS** Datasets and Benchmarks) (2022, December) \
+&emsp; &emsp; 👤<u>Authors</u>: Jorge Quesada, Lakshmi Sathidevi, **Ran Liu**, Nauman Ahad, Joy M Jackson, Mehdi Azabou, Jingyun Xiao, Chris Liding, Carolina Urzay, William Gray-Roncal, Erik Christopher Johnson, Eva L Dyer. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Representation learning, multi-task learning, new datasets. \
 
 [C4] **"Building representations of different brain areas through hierarchical point cloud networks"** [OpenReview](https://openreview.net/pdf?id=3GeifJ_GCg0), [Talk](https://2022.midl.io/papers/d_s_3) \
 &emsp; &emsp; Medical Imaging with Deep Learning (**MIDL**) (2022, April) \
