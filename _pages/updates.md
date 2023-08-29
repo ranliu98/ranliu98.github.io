@@ -9,7 +9,7 @@ redirect_from:
 
 2023-08-29 Two new papers will be on arXiv soon -- stay tuned!
 
-2023-08-29 Honored to be selected to attend the [Rising Stars in EECS 2023](https://eecsrisingstars2023.cc.gatech.edu/).
+2023-08-29 Honored to be selected to attend the [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/).
 
 2023-08-11 Honored to be invited as a speaker and panelist at [GT/Emory NeuroAI Summer School](https://neuroai-atl.github.io/neuroaisummer23/about/). 
 
