@@ -7,7 +7,13 @@ redirect_from:
   - /updates
 ---
 
+2023-08-29 Two new papers will be on arXiv soon -- stay tuned!
+
+2023-08-29 Honored to be selected to attend the [Rising Stars in EECS 2023](https://eecsrisingstars2023.cc.gatech.edu/).
+
 2023-08-11 Honored to be invited as a speaker and panelist at [GT/Emory NeuroAI Summer School](https://neuroai-atl.github.io/neuroaisummer23/about/). 
+
+2023-06-03 New paper [Half-Hop: A graph upsampling approach for slowing down message passing](https://openreview.net/pdf?id=lXczFIwQkv) was accepted by [ICML 2023](https://icml.cc/Conferences/2023/Dates).
 
 2022-11-09 I will join Apple Machine Learning Research (MLR) for a 6-month internship next year (from Jan to Aug).
 
