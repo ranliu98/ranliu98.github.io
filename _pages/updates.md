@@ -7,7 +7,11 @@ redirect_from:
   - /updates
 ---
 
-2023-08-29 Two new papers will be on arXiv soon -- stay tuned!
+2023-11-08 Come and check my talk at [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/Ran_Liu/)!
+
+2023-10-27 [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/pdf/2308.14596.pdf) is accepted by WACV 2024! It is my first attempt in the field of pure computer vision. Thanks to my advisor and my collaborators!
+
+2023-08-29 [Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals](https://arxiv.org/pdf/2309.05927.pdf) and [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/pdf/2308.14596.pdf) are available on arXiv now.
 
 2023-08-29 Honored to be selected to attend the [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/).
 
