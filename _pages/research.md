@@ -10,18 +10,17 @@ author_profile: true
 Preprints
 </h2>
 
+**"GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings"** \
+&emsp; &emsp; 👤<u>Authors</u>: Jingyun Xiao, **Ran Liu**, Eva L. Dyer. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Timeseries modeling, transformers, interpret group structure.
+
 **"Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals"** \
 &emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Ellen L. Zippi, Hadi Pouransari, Chris Sandino, Jingping Nie, Hanlin Goh, Erdrin Azemi, Ali Moin. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Multimodal learning, pretraining, biosignals.
 
-**"LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration"** \
-&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Domain generalization, data augmentation, computer vision.
-
 **"Mine your own view: Self-supervised learning through across-sample prediction"** [arXiv](https://arxiv.org/pdf/2102.10106.pdf) \
 &emsp; &emsp; 👤<u>Authors</u>: Mehdi Azabou, Mohammad Gheshlaghi Azar, **Ran Liu**, Chi-Heng Lin, Erik C Johnson, Kiran Bhaskaran-Nair, Max Dabagia, Bernardo Avila-Pires, Lindsey Kitchell, Keith B Hengen, William Gray-Roncal, Michal Valko, Eva L Dyer. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Representation learning, self-supervision, neural decoding, computer vision.
-
 
 
 <h2 id="pubs">
@@ -29,6 +28,11 @@ Publications
 </h2>
 
 ### Conference Proceedings
+
+[C8] **"LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration"** \
+&emsp; &emsp; To appear at IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**) (2024, January) \
+&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Domain generalization, data augmentation, computer vision.
 
 [C7] **"Half-Hop: A graph upsampling approach for slowing down message passing"** [OpenReview](https://openreview.net/pdf?id=lXczFIwQkv) \
 &emsp; &emsp; The International Conference on Machine Learning (**ICML**) (2023, June) \
