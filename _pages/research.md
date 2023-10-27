@@ -30,7 +30,7 @@ Publications
 ### Conference Proceedings
 
 [C8] **"LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration"** [arXiv](https://arxiv.org/pdf/2308.14596.pdf) \
-&emsp; &emsp; To appear at IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**) (2024, January) \
+&emsp; &emsp; 🔥To appear at IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**) (2024, January) \
 &emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Sahil Khose, Jingyun Xiao, Lakshmi Sathidevi, Keerthan Ramnath, Zsolt Kira, Eva L. Dyer. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Domain generalization, data augmentation, computer vision.
 
