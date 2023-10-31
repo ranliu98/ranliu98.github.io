@@ -27,6 +27,4 @@ Outside from research, I do indoor climbing and I have two cats🐱.
 ### Contact Me
 
 * My email address is rliu361{at}gatech{dot}edu.
-* My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length_23.pdf). (Updated Aug, 2023)
-
-**I might have a neural-recording/time-series related project that I plan to work on starting early September 2023. I am happy to advise and collaborate with a MS/Undergrad student with strong deep learning background on this project. If you are a current Georgia Tech MS/Undergrad student and interested in this research area, feel free to send me an email.**
+* My full CV is [here](https://ranliu98.github.io/files/Ran_CV_Oct30.pdf). (Updated Oct, 2023)
