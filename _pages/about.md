@@ -27,4 +27,4 @@ Outside from research, I do indoor climbing and I have two cats🐱.
 ### Contact Me
 
 * My email address is rliu361{at}gatech{dot}edu.
-* My full CV is [here](https://ranliu98.github.io/files/Ran_CV_Oct30.pdf). (Updated Oct, 2023)
+* My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length.pdf). (Updated Oct, 2023)
