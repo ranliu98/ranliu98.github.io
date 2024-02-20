@@ -7,6 +7,12 @@ redirect_from:
   - /updates
 ---
 
+2024-02-20 [Spectral Imbalance](https://arxiv.org/abs/2402.11742) is available on arXiv now. Do you know class bias exists in your balanced dataset?
+
+2024-02-07 Research program sponsored by [Apple](https://www.apple.com/) is launching. Look forward to amazing work ahead!
+
+2024-02-01 [GAFormer](https://openreview.net/pdf?id=c56TWtYp0W) is accepted by ICLR 2024! Glad I could contribute!
+
 2023-12-08 Outstanding Research Award from [CSIP](https://csip.ece.gatech.edu/)! Thanks to my advisor's support!
 
 2023-11-08 Come and check my talk at 💫 [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/Ran_Liu/)!
