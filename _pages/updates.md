@@ -7,7 +7,7 @@ redirect_from:
   - /updates
 ---
 
-2024-02-20 [Spectral Imbalance](https://arxiv.org/abs/2402.11742) is available on arXiv now. Do you know class bias exists in balanced datasets?
+2024-02-20 [Spectral Imbalance](https://arxiv.org/abs/2402.11742) is available on arXiv! Do you know class bias exists in balanced datasets?
 
 2024-02-07 Research program sponsored by [Apple](https://www.apple.com/) is launching. Look forward to amazing work ahead!
 
