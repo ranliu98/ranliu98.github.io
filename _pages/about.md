@@ -16,8 +16,8 @@ Previously, I got my Bachelor's degree from Fudan University majoring in physics
 **I am looking for a full-time position starting in Fall 2024.**
 
 My research interests lie at the intersection of Machine (Deep) Learning, Computer Vision, and Computational/Cognitive Neuroscience. I am interested in developing large-scale learning methods that are more generalizable and explainable.
-The research projects that I worked on, or am actively working on include: 
-* **Large-scale Pretraining and Alignment for Time Series and Beyond**: Develop large-scale transformers for effective training on massive amounts of data, and efficiently adapt/align them to specific downstream tasks.
+The research projects that I worked on include: 
+* **Large-scale Pretraining and Alignment for Time Series and Beyond**: Develop large-scale transformers for effective training on massive amounts of data, and efficiently adapt/align them to specific downstream tasks based on needs.
 * **Representation Learning, Contrastive Methods, and Data Augmentation**: Build and evaluate deep learning architectures to make sure they have a customizable and explainable representation space.
 * **Generative Modeling and Segmentation of Medical Images**: Multiscale modeling, classification, and segmentation of brain structures.
 
