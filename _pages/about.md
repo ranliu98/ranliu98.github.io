@@ -13,8 +13,6 @@ I was fortunate to have interned at [Apple AI/ML](https://machinelearning.apple.
 Currently, I conduct my research in the Neural Data Science Lab advised by [Prof. Eva L. Dyer](https://dyerlab.gatech.edu/).
 Previously, I got my Bachelor's degree from Fudan University majoring in physics working on Quantum Hall effect and Superconductors.
 
-**I will join Apple AI/ML as a full-time researcher starting Fall 2024.**
-
 My research interests lie at the intersection of Machine (Deep) Learning, Computer Vision, and Computational/Cognitive Neuroscience. I am interested in developing large-scale learning methods that are more generalizable and explainable.
 The research projects that I worked on include: 
 * **Large-scale Pretraining and Alignment for Time Series and Beyond**: Develop large-scale transformers for effective training on massive amounts of data, and efficiently adapt/align them to specific downstream tasks based on needs.
