@@ -11,23 +11,36 @@ Preprints
 </h2>
 
 **"Balanced Data, Imbalanced Spectra: Unveiling Class Disparities with Spectral Imbalance"** [arXiv](https://arxiv.org/abs/2402.11742) \
+&emsp; &emsp; 🔥To appear at the International Conference on Machine Learning (**ICML**) (2024, July) \
 &emsp; &emsp; 👤<u>Authors</u>: Chiraag Kaushik<sup>1</sup>, **Ran Liu**<sup>1</sup>, Chi-Heng Lin, Amrit Khera, Matthew Y Jin, Wenrui Ma, Vidya Muthukumar, Eva L Dyer. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Evaluating representations, learning theory, large pre-trained models, computer vision. \
 &emsp; &emsp; <sup>1</sup> Equal contribution, name ordered alphabetically.
 
+**"Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals"** [arXiv](https://arxiv.org/pdf/2309.05927.pdf) \
+&emsp; &emsp; 🔥To appear at the International Conference on Learning Representations (**ICLR** Time Series for Health) (2024, May) \
+&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Ellen L. Zippi, Hadi Pouransari, Chris Sandino, Jingping Nie, Hanlin Goh, Erdrin Azemi, Ali Moin. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Multimodal learning, pretraining, biosignals.
+
+**"GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings"** [OpenReview](https://openreview.net/pdf?id=c56TWtYp0W) \
+&emsp; &emsp; 🔥To appear at the International Conference on Learning Representations (**ICLR**) (2024, May) \
+&emsp; &emsp; 👤<u>Authors</u>: Jingyun Xiao, **Ran Liu**, Eva L. Dyer. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Timeseries modeling, transformers, interpret group structure.
+
 **"Your contrastive learning problem is secretly an alignment problem"** \
 &emsp; &emsp; 👤<u>Authors</u>: Zihao Chen, Chi-Heng Lin, **Ran Liu**, Jingyun Xiao, Eva L Dyer. \
 &emsp; &emsp; 🔑<u>Keywords</u>: Contrastive learning, optimal transport, representation learning, computer vision.
-
-**"Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals"** [arXiv](https://arxiv.org/pdf/2309.05927.pdf) \
-&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Ellen L. Zippi, Hadi Pouransari, Chris Sandino, Jingping Nie, Hanlin Goh, Erdrin Azemi, Ali Moin. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Multimodal learning, pretraining, biosignals.
 
 <h2 id="pubs">
 Publications
 </h2>
 
 ### Conference Proceedings
+
+[C10] **"Balanced Data, Imbalanced Spectra: Unveiling Class Disparities with Spectral Imbalance"** [arXiv](https://arxiv.org/abs/2402.11742) \
+&emsp; &emsp; 🔥To appear at the International Conference on Machine Learning (**ICML**) (2024, July) \
+&emsp; &emsp; 👤<u>Authors</u>: Chiraag Kaushik<sup>1</sup>, **Ran Liu**<sup>1</sup>, Chi-Heng Lin, Amrit Khera, Matthew Y Jin, Wenrui Ma, Vidya Muthukumar, Eva L Dyer. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Evaluating representations, learning theory, large pre-trained models, computer vision. \
+&emsp; &emsp; <sup>1</sup> Equal contribution, name ordered alphabetically.
 
 [C9] **"GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings"** [OpenReview](https://openreview.net/pdf?id=c56TWtYp0W) \
 &emsp; &emsp; 🔥To appear at the International Conference on Learning Representations (**ICLR**) (2024, May) \
@@ -75,6 +88,11 @@ Publications
 &emsp; &emsp; 🔑<u>Keywords</u>: Generative learning, interpretability, image synthesis.
 
 ### Workshops and Posters
+
+[W3] **"Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals"** [arXiv](https://arxiv.org/pdf/2309.05927.pdf) \
+&emsp; &emsp; 🔥To appear at the International Conference on Learning Representations (**ICLR** Time Series for Health) (2024, May) \
+&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Ellen L. Zippi, Hadi Pouransari, Chris Sandino, Jingping Nie, Hanlin Goh, Erdrin Azemi, Ali Moin. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Multimodal learning, pretraining, biosignals.
 
 [W2] **"Using self-supervision and augmentations to build insights into neural coding"** [CameraReady](https://sslneurips21.github.io/files/CameraReady/neural_ssl_workshop.pdf) \
 &emsp; &emsp; **NeurIPS** 2021 Workshop: Self-Supervised Learning - Theory and Practice (2021, December) \
