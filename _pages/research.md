@@ -16,15 +16,9 @@ Preprints
 &emsp; &emsp; 🔑<u>Keywords</u>: Evaluating representations, learning theory, large pre-trained models, computer vision. \
 &emsp; &emsp; <sup>1</sup> Equal contribution, name ordered alphabetically.
 
-**"Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals"** [arXiv](https://arxiv.org/pdf/2309.05927.pdf) \
-&emsp; &emsp; 🔥To appear at the International Conference on Learning Representations (**ICLR** Time Series for Health) (2024, May) \
-&emsp; &emsp; 👤<u>Authors</u>: **Ran Liu**, Ellen L. Zippi, Hadi Pouransari, Chris Sandino, Jingping Nie, Hanlin Goh, Erdrin Azemi, Ali Moin. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Multimodal learning, pretraining, biosignals.
-
-**"GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings"** [OpenReview](https://openreview.net/pdf?id=c56TWtYp0W) \
-&emsp; &emsp; 🔥To appear at the International Conference on Learning Representations (**ICLR**) (2024, May) \
-&emsp; &emsp; 👤<u>Authors</u>: Jingyun Xiao, **Ran Liu**, Eva L. Dyer. \
-&emsp; &emsp; 🔑<u>Keywords</u>: Timeseries modeling, transformers, interpret group structure.
+**"Model-driven Heart Rate Estimation and Heart Murmur Detection based on Phonocardiogram"** [arXiv](https://arxiv.org/pdf/2407.18424) \
+&emsp; &emsp; 👤<u>Authors</u>: Jingping Nie, **Ran Liu**, Behrooz Mahasseni, Erdrin Azemi, Vikramjit Mitra. \
+&emsp; &emsp; 🔑<u>Keywords</u>: Machine learning for health, multi-task learning. \
 
 **"Your contrastive learning problem is secretly an alignment problem"** \
 &emsp; &emsp; 👤<u>Authors</u>: Zihao Chen, Chi-Heng Lin, **Ran Liu**, Jingyun Xiao, Eva L Dyer. \
