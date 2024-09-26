@@ -7,6 +7,8 @@ redirect_from:
   - /updates
 ---
 
+2024-09-25 [Your contrastive learning problem is secretly a distribution alignment problem]() is accepted by NeurIPS 2024! Glad I could contribute!
+
 2024-04-22 I became Dr. Liu 🤓 today!
 
 2024-02-20 [Spectral Imbalance](https://arxiv.org/abs/2402.11742) is available on arXiv! Do you know class bias exists in balanced datasets?
@@ -19,7 +21,7 @@ redirect_from:
 
 2023-11-08 Come and check my talk at 💫 [EECS Rising Stars 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/Ran_Liu/)!
 
-2023-10-27 [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/pdf/2308.14596.pdf) is accepted by WACV 2024! It is my first attempt in the field of pure computer vision. Thanks to my advisor and my collaborators!
+2023-10-27 [LatentDR](https://arxiv.org/pdf/2308.14596.pdf) is accepted by WACV 2024! It is my first attempt in the field of pure computer vision. Thanks to my advisor and my collaborators!
 
 2023-08-29 [Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals](https://arxiv.org/pdf/2309.05927.pdf) and [LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration](https://arxiv.org/pdf/2308.14596.pdf) are available on arXiv now.
 
