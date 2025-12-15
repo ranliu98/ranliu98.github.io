@@ -16,7 +16,9 @@ My ultimate research goal is to create a next-generation deep learning framework
 * **Representation Learning, Contrastive Methods, and Data Augmentation**: Alignment theory for contrastive learning (coming soon), Sample-aware augmentation ([WACV'24](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_LatentDR_Improving_Model_Generalization_Through_Sample-Aware_Latent_Degradation_and_Restoration_WACV_2024_paper.pdf)), Upsampling augmentation for graphs ([ICML'23](https://proceedings.mlr.press/v202/azabou23a/azabou23a.pdf)), Cross-sample augmentation in SSL ([NeurIPS'21 SSLTP](https://arxiv.org/pdf/2102.10106)).
 * **Generative Modeling and Segmentation of Medical Images**: Open-source dataset for multiscale brain modeling ([NeurIPS'22 DnB](https://proceedings.neurips.cc/paper_files/paper/2022/file/22fb65e39d318c4b5b56fbe9cb082e3f-Paper-Datasets_and_Benchmarks.pdf)), Multiscale brain modeling ([ICIP'21](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506174)), Population-level variability in brain ([MICCAI'20](https://www.biorxiv.org/content/10.1101/2020.06.04.134635v1.full.pdf)).
 
-Outside of research, I am a fan of indoor climbing, fine dining, and playing with my two lovely cats🐱.
+**Shoot me an email if you are interested in collaborating!**
+
+Outside of research, I am a fan of indoor climbing, fine dining, and playing with my lovely cat Tigger boy🐱.
 
 I am also somewhat of a hunter. ![MH_Gunlance_Icon_White](https://github.com/ranliu98/ranliu98.github.io/assets/50523032/0cf58f1e-e0c6-4e24-8cce-a26889cb3648)
 ![MH_Heavy_Bowgun_Icon_White](https://github.com/ranliu98/ranliu98.github.io/assets/50523032/d80ea108-252c-48be-bee2-06280b2a1e6b) ![MH_Long_Sword_Icon_White](https://github.com/ranliu98/ranliu98.github.io/assets/50523032/01a0746e-d44a-4fa7-aebe-61f9d85bef53) ![MH_Dual_Blades_Icon_White](https://github.com/ranliu98/ranliu98.github.io/assets/50523032/ab178768-1a2b-4e35-bd40-534b884ba650)
