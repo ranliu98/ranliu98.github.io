@@ -30,4 +30,4 @@ I am also somewhat of a hunter. ![MH_Gunlance_Icon_White](https://github.com/ran
 ### Contact Me
 
 * My email address is rliu361{at}gatech{dot}edu.
-* My full CV is [here](https://ranliu98.github.io/files/Ran_Liu_cv_full_length.pdf). (Updated Feb, 2024)
+* My full CV is [here](https://ranliu98.github.io/files/Ran_CV_2026Sep.pdf). (Updated Sep, 2026)
